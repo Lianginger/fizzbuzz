@@ -1,8 +1,9 @@
 # FizzBuzz 測試練習
-使用 mocha 測試框架實作出自動化測試，測試這個程式碼是否正確。
+使用 mocha 測試框架實作出自動化測試，測試這個程式碼是否正確。  
+[Github Page link](https://lianginger.github.io/fizzbuzz/)
 
 ## 截圖
-![screenshot](img/sreenshot.jpg)
+![screenshot](img/screenshot.jpg)
 
 ## 測試規格
 將一個大於 0 的整數傳到 fizzBuzz() 函式，並且該函式可以依下面的規則回傳結果。
