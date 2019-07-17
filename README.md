@@ -1,6 +1,8 @@
 # FizzBuzz 測試練習
 使用 mocha 測試框架實作出自動化測試，測試這個程式碼是否正確。  
-[Github Page link](https://lianginger.github.io/fizzbuzz/)
+[Github Page link](https://lianginger.github.io/fizzbuzz/)  
+
+相關專案=>[使用 Jest 測試框架](https://github.com/Lianginger/jest-pratice)
 
 ## 截圖
 ![screenshot](img/screenshot.jpg)
